@@ -7,7 +7,12 @@ import json,sys,time,random
 #mail:  Mail.Read、Mail.ReadWrite、MailboxSettings.Read、MailboxSettings.ReadWrite
 #注册后一定要再点代表xxx授予管理员同意,否则outlook api无法调用
 
-
+###################################################################
+#把下方单引号内的内容改为你的应用id                                         
+id=r'123b201e-90a4-4a2a-bdc7-465d2e05b02f'                         
+#把下方单引号内的内容改为你的应用机密                            
+secret=r'4g4XfeLq?Ps/Uqg[Ls0f?Xw2qS:Q=BTh'                                           
+###################################################################
 
 
 
